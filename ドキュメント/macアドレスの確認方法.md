@@ -20,4 +20,4 @@ BLEアドバタイズメントは、BLEデバイスが自身の存在を周囲�
 
 ## scan()を使う
 
-<img width="1000" alt="スクリーンショット 2024-04-22 13 43 06" src="https://github.com/mase114/BLE_gamepad/assets/142933261/722a27fa-2ee8-424f-b53e-423099b972b9">
+<img width="1467" alt="スクリーンショット 2024-04-22 13 43 06" src="https://github.com/mase114/BLE_gamepad/assets/142933261/722a27fa-2ee8-424f-b53e-423099b972b9">
