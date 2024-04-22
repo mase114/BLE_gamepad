@@ -20,6 +20,11 @@ BLEアドバタイズメントは、BLEデバイスが自身の存在を周囲�
 
 ## [gamepad_scan.py](https://github.com/mase114/BLE_gamepad/blob/main/gamepad_scan.py)を使う
 
+[gamepad_scan.py](https://github.com/mase114/BLE_gamepad/blob/main/gamepad_scan.py)を愛用してmacアドレスを取得するため
+ゲームパッドをアドバタイズメント状態にし、コードを実行します。
 
+`[ble_gamepad.py](https://github.com/mase114/BLE_gamepad/blob/main/ble_gamepad.py)をマイコンに書き込んでおく`
+
+ターミナルに表示されるデバイス名`今回はZM T-12`の`ADDR=`の値をコピーします。
 
 ![IMG_9650](https://github.com/mase114/BLE_gamepad/assets/142933261/b224aff7-fec1-4b6a-8057-d59d398c330f)
