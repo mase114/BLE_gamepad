@@ -18,7 +18,7 @@ BLEアドバタイズメントは、BLEデバイスが自身の存在を周囲�
 - デバイスの名前
 - カスタムデータ
 
-## [gamepad_scan.py](BLE_gamepad/gamepad_scan.py)を使う
+## [gamepad_scan.py](https://github.com/mase114/BLE_gamepad/blob/main/gamepad_scan.py)を使う
 
 
 
