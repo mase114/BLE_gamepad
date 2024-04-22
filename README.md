@@ -20,3 +20,13 @@ pad.connect(addr_type=0, addr='変更')
 
 `addr=`の`'変更'`をスキャンしたmacアドレスに変更する。
 `''は残す`
+
+## macアドレスの確認
+
+[macアドレスの確認方法を参照](https://github.com/mase114/BLE_gamepad/blob/main/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/mac%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E3%81%AE%E7%A2%BA%E8%AA%8D%E6%96%B9%E6%B3%95.md)
+
+## 各ボタンの入力信号の値
+
+| 変数名 | 値 | ボタン名 |
+| --- | -- | --- |
+| `sw.btnA` | `1` | A |
