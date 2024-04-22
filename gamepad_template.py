@@ -20,7 +20,7 @@ while not pad.is_connected():
         utime.sleep(1)
 
 while pad.is_connected():
-    print(sw.btnA,sw.btnB,sw.btnX,sw.btnY,sw.btnL,sw.btnR,sw.btnLT,sw.btnRT,sw.btnLS,sw.btnRS,sw.btnSTART,sw.btnSELECT,sw.pad,sw.axes,sw.buttons)
+    print(sw.btnA,sw.btnB,sw.btnX,sw.btnY,sw.btnL,sw.btnR,sw.btnLT,sw.btnRT,sw.btnLS,sw.btnRS,sw.btnSELECT,sw.btnSTART,sw.pad,sw.axes,sw.buttons)
     """
     スイッチ動作処理
     """
