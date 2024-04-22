@@ -30,3 +30,14 @@ pad.connect(addr_type=0, addr='変更')
 | 変数名 | 値 | ボタン名 |
 | --- | -- | :----: |
 | `sw.btnA` | `1` | A |
+| `sw.btnB` | `2` | B |
+| `sw.btnX` | `8` | X |
+| `sw.btnY` | `16` | Y |
+| `sw.btnL` | `64` | BL |
+| `sw.btnR` | `128` | BR |
+| `sw.btnLT` | `1` | LT |
+| `sw.btnRT` | `2` | RT |
+
+
+
+
