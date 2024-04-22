@@ -8,3 +8,15 @@ BLE通信を使用してゲームパッドとマイコンを接続するため�
 
 ## [gamepad_template.py](https://github.com/mase114/BLE_gamepad/blob/main/gamepad_template.py)の使い方
 
+### macアドレスの入力
+
+'''python
+ble = ubluetooth.BLE()
+pad = ble_gamepad.gamepad(ble)
+pad.scan()
+sw = pad.status()
+pad.connect(addr_type=0, addr='変更')
+```
+
+`addr=`の`'変更'`をスキャンしたmacアドレスに変更する。
+`''は残す`
