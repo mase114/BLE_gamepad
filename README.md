@@ -37,7 +37,21 @@ pad.connect(addr_type=0, addr='変更')
 | `sw.btnR` | `128` | BR |
 | `sw.btnLT` | `1` | LT |
 | `sw.btnRT` | `2` | RT |
+| `sw.btnLS` | `32` | Lスティックボタン and 背面L |
+| `sw.btnRS` | `64` | Rスティックボタン and 背面R |
+| `sw.btnSELECT` | `4` | SELECT |
+| `sw.btnSTART` | `8` | START |
+| `sw.pad` | `0` | ↑ |
+| `sw.pad` | `6` | ← |
+| `sw.pad` | `4` | ↓ |
+| `sw.pad` | `2` | → |
+| `sw.pad` | `7` | ←↑ |
+| `sw.pad` | `1` | ↑→ |
+| `sw.pad` | `5` | ←↓ |
+| `sw.pad` | `3` | ↓→ |
+| `sw.axisLX` | `127~-128` | スティックL_X |
+| `sw.axisLY` | `127~-128` | スティックL_Y |
+| `sw.axisRX` | `127~-128` | スティックR_X |
+| `sw.axisRY` | `127~-128` | スティックR_Y |
 
-
-
-
+使用デバイス:`ZM T-12`
