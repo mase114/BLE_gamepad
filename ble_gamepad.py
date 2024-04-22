@@ -263,8 +263,8 @@ class gamepad(object):
 
             self._pad.btnLT     = state[6] & 0x01
             self._pad.btnRT     = state[6] & 0x02
-            self._pad.btnSTART  = state[6] & 0x04
-            self._pad.btnSELECT = state[6] & 0x08
+            self._pad.btnSELECT  = state[6] & 0x04
+            self._pad.btnSTART = state[6] & 0x08
             self._pad.btnLS     = state[6] & 0x20
             self._pad.btnRS     = state[6] & 0x40
             
