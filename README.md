@@ -6,3 +6,5 @@ BLE通信を使用してゲームパッドとマイコンを接続するため�
 
 今回使用したゲームパッドは[ZM T-12](https://www.amazon.co.jp/gp/product/B07XRW22C8/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)コントローラーです。
 
+## [gamepad_template.py](https://github.com/mase114/BLE_gamepad/blob/main/gamepad_template.py)の使い方
+
