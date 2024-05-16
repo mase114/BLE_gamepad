@@ -269,9 +269,9 @@ class gamepad(object):
             self._pad.btnRS     = state[6] & 0x40
             
             self._pad.axisLX = state[0]-128
-            self._pad.axisLY = state[0]-128
-            self._pad.axisRX = state[0]-128
-            self._pad.axisRY = state[0]-128
+            self._pad.axisLY = state[1]-128
+            self._pad.axisRX = state[2]-128
+            self._pad.axisRY = state[3]-128
             self._pad.axes   = [ state[0]-128, state[1]-128, state[2]-128, state[3]-128 ]
             
             self._pad.pad     = state[4]
